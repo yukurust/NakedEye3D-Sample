@@ -107,3 +107,8 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
 .DS_Store
+.vscode
+.vscode/*
+.vscode/settings.json
+.vscode/settings.json.meta
+.vscode/settings.json.meta
